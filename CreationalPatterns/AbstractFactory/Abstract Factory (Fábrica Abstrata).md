@@ -24,5 +24,3 @@
 2. Criação da Fábrica Abstrata para os produtos;
 	- Cada produto possuirá um método dentro da Fábrica Abstrata;
 	- Cada família de produtos deve implementar sua própria forma de instanciar cada tipo de produto (Classe Concreta). 
-
-- [ ] Revisar Padrão: **Abstract Factory**
